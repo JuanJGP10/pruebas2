@@ -1,0 +1,8 @@
+ESTOS PASOS SON PARA ENLAZAR UN REPOSITORIO EXISTENTE EN TU ORDENADOR A UN NUEVO REPOSITORIO EN GITHUB
+git init
+git remote add origin https://github.com/JuanJGP10/pruebas2.git
+remote -v
+a la hora de subir un archivo no te dejara.
+tienes que  hacer git push -u origin master para que te deje
+PARA ENLAZAR UN REPOSITORIO EN GITHUB A UNO NUEVO EN TU ORDENADOR DEBES DEBES
+git clone url de tu repo de github
