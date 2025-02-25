@@ -1,3 +1,5 @@
+git config --global user.name "TuNombreDeUsuario"
+git config --global user.email "TuCorreo@example.com"
 ESTOS PASOS SON PARA ENLAZAR UN REPOSITORIO EXISTENTE EN TU ORDENADOR A UN NUEVO REPOSITORIO EN GITHUB
 git init
 git remote add origin https://github.com/JuanJGP10/pruebas2.git
